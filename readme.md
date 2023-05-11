@@ -1,4 +1,4 @@
-PROYECTO GRUPAL DE LA PAGINA WEB
+<h1>PROYECTO GRUPAL DE LA PAGINA WEB</h1>
 
 Pagina principal del MiniMarket San Luis
 

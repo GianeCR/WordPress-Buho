@@ -37,8 +37,8 @@
 
 ![imagen8](https://github.com/GianeCR/WordPress-Buho/assets/125288026/7f31b38c-04df-4e43-94e5-2f2eef2e2463)
 
-
-9. CLista de productos que se agrego al carrito
+<br>
+9. Lista de productos que se agrego al carrito
 
 ![imagen9](https://github.com/GianeCR/WordPress-Buho/assets/125288026/9e70c77b-7f36-418a-aa24-57ef246fb41f)
 
